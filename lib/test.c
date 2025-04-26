@@ -3,11 +3,6 @@
 int main()
 {
     printf("Hello World\n");
-    if(1) {
-        printf("This is a test\n");
-    } else {
-        printf("This is not a test\n");
-    }
-    
+   /*i use this as a test*/
     return 0;
 }
