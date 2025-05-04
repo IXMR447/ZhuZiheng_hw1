@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "f:/zzy/code/algebra/build"
+			"value" : "d:/USER FILES/Desktop/ZhuZiheng-new_hw1-main/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3"
+			"value" : "4"
 		},
 		{
 			"name" : "CMAKE_CACHE_MINOR_VERSION",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "28"
+			"value" : "0"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -94,6 +94,22 @@
 			"value" : "1"
 		},
 		{
+			"name" : "CMAKE_COLOR_MAKEFILE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable/Disable color output during build."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
+		},
+		{
 			"name" : "CMAKE_COMMAND",
 			"properties" : 
 			[
@@ -103,7 +119,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/ST/STM32CubeCLT_1.15.1/CMake/bin/cmake.exe"
+			"value" : "D:/cmake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -115,7 +131,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/ST/STM32CubeCLT_1.15.1/CMake/bin/cpack.exe"
+			"value" : "D:/cmake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -127,7 +143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/ST/STM32CubeCLT_1.15.1/CMake/bin/ctest.exe"
+			"value" : "D:/cmake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -142,8 +158,8 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/c++.exe"
+			"type" : "STRING",
+			"value" : "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -286,7 +302,7 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gcc.exe"
 		},
 		{
@@ -443,7 +459,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/ST/STM32CubeCLT_1.15.1/CMake/bin/cmake-gui.exe"
+			"value" : "D:/cmake/bin/cmake-gui.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -571,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/zzy/code/algebra/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -583,7 +599,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "Ninja"
+			"value" : "MinGW Makefiles"
 		},
 		{
 			"name" : "CMAKE_GENERATOR_INSTANCE",
@@ -643,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "F:/zzy/code/algebra"
+			"value" : "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -655,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Project"
+			"value" : "C:/Program Files (x86)/MAIN"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -674,6 +690,18 @@
 			"value" : "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/ld.exe"
 		},
 		{
+			"name" : "CMAKE_LIST_FILE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of CMakeLists files to read"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "CMakeLists.txt"
+		},
+		{
 			"name" : "CMAKE_MAKE_PROGRAM",
 			"properties" : 
 			[
@@ -683,11 +711,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Program used to build from build.ninja files."
+					"value" : "make program"
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/ST/STM32CubeCLT_1.15.1/Ninja/bin/ninja.exe"
+			"value" : "C:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -875,7 +903,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Project"
+			"value" : "MAIN"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1027,7 +1055,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/ST/STM32CubeCLT_1.15.1/CMake/share/cmake-3.28"
+			"value" : "D:/cmake/share/cmake-4.0"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1270,7 +1298,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Project_BINARY_DIR",
+			"name" : "MAIN_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1307,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/zzy/code/algebra/build"
+			"value" : "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main/build"
 		},
 		{
-			"name" : "Project_IS_TOP_LEVEL",
+			"name" : "MAIN_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1322,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Project_SOURCE_DIR",
+			"name" : "MAIN_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,19 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/zzy/code/algebra"
-		},
-		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "FALSE"
+			"value" : "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main"
 		}
 	],
 	"kind" : "cache",

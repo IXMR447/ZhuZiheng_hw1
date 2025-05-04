@@ -10,7 +10,7 @@ Matrix create_matrix(int row, int col)
     return m;
 }
 
-Matrix add_matrix(Matrix a, Matrix b)
+Matrix add_matrix(Matrix a, Matrix b)   //加法
 {
     // ToDo
     if (a.rows != b.rows || a.cols != b.cols)
@@ -29,7 +29,7 @@ Matrix add_matrix(Matrix a, Matrix b)
     return result;
 }
 
-Matrix sub_matrix(Matrix a, Matrix b)
+Matrix sub_matrix(Matrix a, Matrix b)  //减法
 {
     // ToDo
     if (a.rows != b.rows || a.cols != b.cols)
@@ -48,7 +48,7 @@ Matrix sub_matrix(Matrix a, Matrix b)
     return result;
 }
 
-Matrix mul_matrix(Matrix a, Matrix b)
+Matrix mul_matrix(Matrix a, Matrix b) 
 {
     // ToDo
     return create_matrix(0, 0);

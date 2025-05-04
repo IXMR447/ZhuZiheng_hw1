@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/MAIN.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\MAIN.dir\\src\\main.c.obj -c \"D:\\USER FILES\\Desktop\\ZhuZiheng-new_hw1-main\\src\\main.c\"",
+  "file": "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main/src/main.c",
+  "output": "CMakeFiles/MAIN.dir/src/main.c.obj"
+},
+{
+  "directory": "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/MAIN.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\MAIN.dir\\src\\algebra.c.obj -c \"D:\\USER FILES\\Desktop\\ZhuZiheng-new_hw1-main\\src\\algebra.c\"",
+  "file": "D:/USER FILES/Desktop/ZhuZiheng-new_hw1-main/src/algebra.c",
+  "output": "CMakeFiles/MAIN.dir/src/algebra.c.obj"
+}
+]
